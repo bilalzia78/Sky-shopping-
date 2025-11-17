@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الصباء بیوٹی بار - اعلیٰ معیار کی اشیاء</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>الـصـبـاء بیوٹی بار</h1>
+            <p>ہم کوالٹی پر کوئی سمجھوتہ نہیں کرتے۔</p>
+            <a href="#contact" class="whatsapp-btn">واٹس ایپ آرڈر: 0314-8425125</a>
+        </div>
+    </header>
+
+    <section id="about" class="section-padding">
+        <div class="container">
+            <h2>ہمارا مقصد</h2>
+            <p>الصباء بیوٹی بار میں، ہمارا ہر کام اور ہماری ہر پروڈکٹ اعلیٰ معیار کی ضامن ہے۔ ہم آپ کی خوبصورتی اور نگہداشت کے لیے بہترین اشیاء فراہم کرتے ہیں۔</p>
+        </div>
+    </section>
+
+    <section id="products" class="section-padding bg-light">
+        <div class="container">
+            <h2>🛍️ ہماری مصنوعات</h2>
+            <div id="product-list" class="grid-layout">
+                </div>
+            <p class="note">مزید اشیاء دیکھنے اور قیمتیں معلوم کرنے کے لیے واٹس ایپ پر رابطہ کریں۔</p>
+        </div>
+    </section>
+
+    <section id="contact" class="section-padding">
+        <div class="container">
+            <h2>📞 رابطہ اور ڈیلیوری</h2>
+            
+            <div class="contact-info">
+                <h3>آن لائن ڈیلیوری کی سہولت موجود ہے!</h3>
+                <p>📦 **کم سے کم ڈیلیوری:** 1000 روپے کے سامان پر ہوگی۔</p>
+                <p>🚚 **ڈیلیوری چارجز (پنڈی/اسلام آباد):** 50 روپے ہول کے۔</p>
+
+                <br>
+                <h3>رابطہ تفصیلات</h3>
+                <p>👤 **پروپرائٹر:** Mr. & Mrs. Ikram</p>
+                <p>📱 **واٹس ایپ نمبر:** <a href="https://wa.me/" target="_blank">03306247133</a></p>
+                <p>🔗 **سوشل میڈیا:** @alsababeauty999</p>
+
+                <br>
+                <h3>📍 ہمارا پتہ</h3>
+                <p>مکان نمبر 41، گلی نمبر 3، ریئس کرایہ سٹور والی گلی ٹبیہ نور پورہ ہارون آباد۔</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 الصباء بیوٹی بار. تمام حقوق محفوظ ہیں.</p>
+        </div>
+    </footer>
+    <script src="java.js"></script>
+</body>
+</html>
+
